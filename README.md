@@ -1,5 +1,5 @@
 # NOEMI 
-Noemi is a blog about creativity, sports and lifestyle.
+[Noemi](https://olgaits.github.io/NOEMI/) is a blog about creativity, sports and lifestyle.
 
 Training work on the layout (see the layout [here](https://github.com/netology-code/html-2-diploma/blob/master/sources/NOEMI_Modern_ru.jpg)).
 
